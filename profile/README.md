@@ -1,4 +1,3 @@
-![](Commerce_Hero.webp)
 <h1 align="center">
   Mailchimp Open Commerce (formerly Reaction Commerce)
 </h1>
